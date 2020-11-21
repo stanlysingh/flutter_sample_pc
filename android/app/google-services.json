@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835086902028",
+    "firebase_url": "https://t-smart-cee16.firebaseio.com",
+    "project_id": "t-smart-cee16",
+    "storage_bucket": "t-smart-cee16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835086902028:android:8a2f5f1df332d9bea21f29",
+        "android_client_info": {
+          "package_name": "com.smartpoint.tsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835086902028-eagtr1dj6aqh7qsdoacg0j6nleuvcep3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGtC84m5yjX2zqI4sZ6KGrcMteo6_zfJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835086902028-eagtr1dj6aqh7qsdoacg0j6nleuvcep3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

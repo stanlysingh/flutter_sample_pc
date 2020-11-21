@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>835086902028-do2e4crs3si4igr48f79bccj6kc34t5b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.835086902028-do2e4crs3si4igr48f79bccj6kc34t5b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>835086902028-jrafllnrl4khjir4i09leiajq2nnil1b.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOldQx9mxdFFG4ejJOTCwHFEOeHoBqkcA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>835086902028</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartpoint.tsmart</string>
+	<key>PROJECT_ID</key>
+	<string>t-smart-cee16</string>
+	<key>STORAGE_BUCKET</key>
+	<string>t-smart-cee16.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:835086902028:ios:32fd9572e3adc918a21f29</string>
+	<key>DATABASE_URL</key>
+	<string>https://t-smart-cee16.firebaseio.com</string>
+</dict>
+</plist>
